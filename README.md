@@ -1,2 +1,2 @@
 # DevOpsCourse
-Ron = Melech Omer = 0 
+Ron = Melech, Omer = 0 
